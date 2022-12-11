@@ -3,7 +3,7 @@ Aim-Controller-Project
 
 Build and test of custom controllers with motion capacities for playing every games on PC
 
-https://michaelandrefraniatte.web.app/
+https://michaelandrefraniatte.web.app/AimController/
 
 michael.franiatte@gmail.com
 
