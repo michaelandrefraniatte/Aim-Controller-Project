@@ -1,7 +1,7 @@
 
 Aim-Controller-Project
 
-Build and test of custom controllers with motion capacities for playing every games on PC
+Build and test of custom controllers with motion abilities for playing every games on PC
 
 https://michaelandrefraniatte.web.app/AimController/
 
